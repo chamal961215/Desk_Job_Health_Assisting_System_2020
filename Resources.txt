@@ -1,3 +1,0 @@
-https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
-https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
-https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
